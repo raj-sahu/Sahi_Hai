@@ -28,4 +28,4 @@ importance = clf.feature_importances_
 print(importance)
 print(clf.score(X_test, y_test))
 
-joblib.dump(clf, "../model/random_forest.pkl", compress=9)
+joblib.dump(clf, "../models/rf_model.pkl", compress=9)
