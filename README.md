@@ -10,33 +10,35 @@
   - [Advantages](#advantages)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
-  - [Directory Stucture](#directory-stucture)
+  - [Directory Structure](#directory-structure)
   - [Backend - Ml Model](#backend---ml-model)
   - [Extension](#extension)
 - [Acknowledgments](#acknowledgments)
 
 # Built With
+
 ## Advantages
+
 # Tech Stack
 
-- [HTML](https://www.w3schools.com/html/) - The front-end development language  for creating extension.
+- [HTML](https://www.w3schools.com/html/) - The front-end development language used for creating extension.
 
-- [CSS](https://www.w3schools.com/css/) - The  front-end development language  for creating extension.
+- [CSS](https://www.w3schools.com/css/) - The  front-end development language used for creating extension.
 
-- [Python](https://www.python.org/) - The Programing Language used to parse features from website and for training/testing of ML model.
-- [JavaScript](https://www.javascript.com/) - The scripting language used for creating the extension and sending a request to the served Ml model.
-- [Php](https://www.php.net/) - The scripting language used for serving the Ml model 
+- [Python](https://www.python.org/) - The Programing Language used to parse features from a website and for training/testing of the ML model.
+- [JavaScript](https://www.javascript.com/) - The scripting language used for creating the extension and sending  requests to the served Ml model.
+- [Php](https://www.php.net/) - The scripting language used for serving the Ml model .
 
-- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) - The library used to scrape websites from a url .
-- [Googlesearch](https://pypi.org/project/googlesearch-python/) - The library for performing  google search's during feature extraction.
- 
+- [Beautiful Soup](https://pypi.org/project/beautifulsoup4/) - The library used to scrape websites from a url.
+- [Googlesearch](https://pypi.org/project/googlesearch-python/) - The library for  performing google search's during feature extraction.
+
 - [whois](https://pypi.org/project/whois/) - The package for retrieving WHOIS information of domains during feature extraction.
-- [scikit-learn](https://scikit-learn.org/stable/) - 
+- [scikit-learn](https://scikit-learn.org/stable/) -
   The library used for training Ml models.
 
 # Usage
 
-## Directory Stucture
+## Directory Structure
 
 ```
 .
@@ -85,12 +87,11 @@
 
 ## Extension
 
-1. Go to chrome Setings using three dots on the top right corner
+1. Go to chrome Settings using three dots on the top right corner
 
 2. select Extensions.
 3. Enable developer mode
 4. click on Load Unpacked and select the extensions folder.
-
 
 # Acknowledgments
 
