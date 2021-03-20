@@ -6,11 +6,11 @@ body{
   font-family: 'Lato', sans-serif;
   background-color: #FFF; 
   color: black; 
+  
 }
 
 .container {
   font-size: 15px;
-  margin: 0px 0px 10px 0px;
 }
 
 .title {
@@ -28,11 +28,10 @@ body{
 }
 
 .p1 {
-  padding: 5px;
+  padding: 5px 5px 0px;
   margin-top: 20px;
   background-color: white;
   font-size: 20px;
-  margin-bottom: 20px;
 }
 
 #site {
@@ -44,9 +43,7 @@ body{
   font-size: 15px;
   background-color: white;
   margin-top: 20px;
-  margin-bottom: 10px;
   align-content: center;
-  padding: 10px;
 }
 
 p{
