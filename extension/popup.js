@@ -32,7 +32,7 @@ $(document).ready(function () {
 chrome.tabs.getSelected(null, function (tab) {
   var tablink = tab.url;
   if (tablink.length > 30) {
-    tablink = tablink.slice(0, 30) + " ...";
+    tablink = tablink.slice(0, 30) + " ....";
   }
   $("#site").text(tablink + "\n\n");
 });
