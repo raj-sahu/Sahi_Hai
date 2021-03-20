@@ -1,3 +1,6 @@
 .vscode/settings.json
 venv/
 test/__pycache__/
+test/markup.txt
+test/features_extraction.pyc
+test/patterns.pyc

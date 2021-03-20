@@ -17,6 +17,7 @@ from patterns import *
 load_dotenv()
 LOCALHOST_PATH = os.getenv("LOCALHOST_PATH")
 DIRECTORY_NAME = os.getenv("DIRECTORY_NAME")
+MODEL_PATH = os.getenv("MODEL_PATH")
 
 
 def having_ip_address(url):
