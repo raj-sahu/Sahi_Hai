@@ -7,7 +7,7 @@
 - [Sahi Hai - A Chrome Extension to detect Malicious Websites](#sahi-hai---a-chrome-extension-to-detect-malicious-websites)
 - [Introduction](#introduction)
 - [Built With](#built-with)
-  - [Advantages](#advantages)
+  - [What Problem it Solves ?](#what-problem-it-solves-)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
   - [Directory Structure](#directory-structure)
@@ -17,7 +17,11 @@
 
 # Built With
 
-## Advantages
+## What Problem it Solves ?
+ Every other website in today's day and age on the internet wants to collect data of its users by tricking them into giving away their credentials for fraud or many such vindictive acts. Naive users using a browser have no idea about the backend of the page. The users might be tricked into giving away their credentials or downloading malicious data.
+
+We have created an extension for Chrome that will act as middleware between the users and the malicious websites and relieve users of giving away to such websites.
+Our project was made by keeping in the mind the regular internet user who has to go through many websites during his time on the internet and may fall under a trap of a malicious website who might want the user's information or want to introduce malware in their system. Our chrome extension helps the user to check a particular website whether it is safe for browsing or not
 
 # Tech Stack
 
