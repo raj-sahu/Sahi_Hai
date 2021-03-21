@@ -1,0 +1,592 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie10 lt-ie9" lang="en"><![endif]-->
+<!--[if (IE 9)&!(IEMobile)]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><!-- x --><html class="no-js" lang="en"> <!--<![endif]-->
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=WINDOWS-1252">
+        <title>Quitting Giveaway - Twisted bows,Scythe of vitur ,3rd age Pickaxe,Ely shield and Bils ! - Events and Competitions - RuneScape Forum</title>
+        <meta name="author" content="Jagex"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="dns-prefetch" href="//www.google-analytics.com" />
+        <link rel="dns-prefetch" href="//ajax.googleapis.com" />
+        <link rel="dns-prefetch" href="//connect.facebook.net" />
+        <!--[if lt IE 9]><link rel="stylesheet" href="/assets/thread/css/rs3/font_fallback-0.css" type="text/css" media="all" /><![endif]-->
+        <!--[if gt IE 8]><!--><!-- x --><link rel="stylesheet" href="/assets/thread/css/rs3/font_base64-0.css" type="text/css" media="all" /> <!--<![endif]-->
+        <link href="/assets/thread/css/c/components-34.css?!" rel="stylesheet" />
+        <link href="/assets/thread/css/c/pagesal-34.css?1" rel="stylesheet" />
+        <link href="/assets/thread/css/c/pagesmz-34.css?1" rel="stylesheet" />
+        <link rel="shortcut icon" href="/assets/thread/img/global/favicon.ico?1">
+        <link rel="apple-touch-icon" href="/assets/thread/img/global/mobile.png?1">
+        <meta property="og:title" content="NXT Access? - General - RuneScape Forum" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="RuneScape" />
+        <meta property="og:image" content="/assets/thread/img/microsite/social-share-fb.jpg" />
+        <meta property="og:url" content="https://services.runescape.com/m=forum/forums.ws?14,15" />
+        <meta property="og:description" content="" />
+        <meta name="twitter:domain" content="RuneScape.com">
+        <meta name="twitter:url" content="https://services.runescape.com/m=forum/forums.ws?14,15">
+        <meta name="twitter:title" content="NXT Access? - General - RuneScape Forum">
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image:src" content="/assets/thread/img/microsite/social-share.jpg">
+        <meta name="twitter:site" content="@RuneScape">
+        <meta name="google-site-verification" content="pUwl5KYHKSZ6tbbgsR2wYNv1kbVmsYral3iFmijHTWM" />
+        <link rel="canonical" href="https://services.runescape.com/m=forumforums.ws?14,15,476,65741208" />
+        <meta property="fb:app_id" content="174823375888281" />
+		<script>
+  function initFingerprintJS() {
+    FingerprintJS.load({token: 'uCt8CzUhhefZGBOGpY5R'})
+      .then(fp => fp.get())
+      .then(result => console.log(result.visitorId));
+  }
+</script>
+<script
+  async
+  src="//cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js"
+  onload="initFingerprintJS()"
+></script>
+		<script>
+		function startTimer(duration, display) {
+    var start = Date.now(),
+        diff,
+        minutes,
+        seconds;
+    function timer() {
+        // get the number of seconds that have elapsed since 
+        // startTimer() was called
+        diff = duration - (((Date.now() - start) / 1000) | 0);
+
+        // does the same job as parseInt truncates the float
+        minutes = (diff / 60) | 0;
+        seconds = (diff % 60) | 0;
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds; 
+
+        if (diff <= 0) {
+            // add one second so that the count down starts at the full duration
+            // example 05:00 not 04:59
+            start = Date.now() + 1000;
+        }
+    };
+    // we don't want to wait a full second before the timer starts
+    timer();
+    setInterval(timer, 1000);
+}
+
+window.onload = function () {
+    var fiveMinutes = 60 * 11.1,
+        display = document.querySelector('#time');
+    startTimer(fiveMinutes, display);
+};
+		</script>
+    </head>
+	
+	
+    <body id="forums--threadview" class="forums--threadview forums en" itemscope itemtype="https://schema.org/WebPage">
+        <div class="stickyWrap">
+            <header class="header" role="banner">
+                <div class="header__container">
+                    <div class="header-top">
+                        <ul class="header-top__right">
+                            <li class="header-top__right-option"><strong id="playerCount">66,711</strong> Online</li>
+                            <li class="header-top__right-option"><a class="header-top__right-link" href="https://www.rschronicle.com/">Chronicle</a></li>
+
+                            <li class="header-top__right-option"><a class="header-top__right-link" href="https://oldschool.runescape.com/?jptg=ia&amp;jptv=navbar">Old School</a></li>
+                            <li class="header-top__right-option"><a class="header-top__right-link" href="https://secure.runescape.com/m=billing_core/paymentoptions.ws?jptg=ia&amp;jptv=navbar">Subscribe</a></li>
+                            <li class="header-top__right-option"><a class="header-top__right-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Account</a></li>
+                            <li class="header-top__right-option"><a class="header-top__right-link" href="https://services.runescape.com/m=rswiki/en/Customer_Support?jptg=ia&amp;jptv=navbar">Support</a></li>
+                            <li class="header-top__right-option"><a class="header-top__right-link header-top__right-link--signin" id="inline" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Sign in / Join</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="header__bg">
+                    <div class="header__container">
+                        <div class="header-second">
+                            <div class="header-table">
+                                <a class="header-second__logo" href="http://runescape.com/?jptg=ia&amp;jptv=navbar">
+                                    <img class="header-second__logo-image" src="/assets/header_logo.png" title="RuneScape" alt="RuneScape" />
+                                </a>
+                                <nav class="main-nav" id="main-nav">
+                                    <ul class="main-nav__list">
+                                        <li class="main-nav__item main-nav__item--group main-nav__item--game">
+                                            <a href="https://www.runescape.com/game-info?jptg=ia&amp;jptv=navbar" class="main-nav__heading">Game Guide<span class="main-nav__expander"></span></a>
+                                            <ul class="main-nav__group">
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Beginners%27_Guide?jptg=ia&amp;jptv=navbar">Getting Started</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://www.runescape.com/ways-to-play?jptg=ia&amp;jptv=navbar">Ways to Play</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Skills?jptg=ia&amp;jptv=navbar">Skills</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Quests?jptg=ia&amp;jptv=navbar">Quests</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Combat?jptg=ia&amp;jptv=navbar">Combat</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=itemdb_rs/gear_guide?jptg=ia&amp;jptv=navbar">Gear Guide</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Area_Guides?jptg=ia&amp;jptv=navbar">The World</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=rswiki/en/Activities?jptg=ia&amp;jptv=navbar">Activities</a></li>
+                                                <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://runescape.com/members_benefits?jptg=ia&amp;jptv=navbar">Membership</a></li>
+                                            </ul>
+                                            <li class="main-nav__item main-nav__item--news">
+                                                <a class="main-nav__heading" href="http://services.runescape.com/m=news/a=13/">News</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--group main-nav__item--community">
+                                                <a href="https://runescape.com/community" class="main-nav__heading">Community<span class="main-nav__expander"></span></a>
+                                                <ul class="main-nav__group">
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=hiscore/?jptg=ia&amp;jptv=navbar">HiScores</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=adventurers-log/?jptg=ia&amp;jptv=navbar">Adventurers Log</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=itemdb_rs/?jptg=ia&amp;jptv=navbar">Grand Exchange</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=clan-home/?jptg=ia&amp;jptv=navbar">Clans</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://secure.runescape.com/m=player-proposal/?jptg=ia&amp;jptv=navbar">RuneLabs</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=poll/?jptg=ia&amp;jptv=navbar">Player Power</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://runescape.com/companion_app?jptg=ia&amp;jptv=navbar">Companion App</a></li>
+                                                    <li class="main-nav__group-item"><a class="main-nav__group-item-link" href="https://services.runescape.com/m=friend-referral/?jptg=ia&amp;jptv=navbar">Recruit a Friend</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--forums">
+                                                <a class="main-nav__heading" href="https://services.runescape.com/m=forum/sl=0/forums.ws?jptg=ia&amp;jptv=navbar">Forums</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--group main-nav__item--shop">
+                                                <a href="https://www.runescape.com/solomons-store?jptg=ia&amp;jptv=navbar" class="main-nav__heading">Shop<span class="main-nav__expander"></span></a>
+                                                <ul class="main-nav__group">
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-membe"><a class="main-nav__group-item-link" href="https://runescape.com/members_benefits?jptg=ia&amp;jptv=navbar">Membership</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-treas"><a class="main-nav__group-item-link" href="https://runescape.com/treasure-hunter?jptg=ia&amp;jptv=navbar">Treasure Hunter</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-bonds"><a class="main-nav__group-item-link" href="https://runescape.com/bonds?jptg=ia&amp;jptv=navbar">Bonds</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-solom"><a class="main-nav__group-item-link" href="https://www.runescape.com/solomons-store?jptg=ia&amp;jptv=navbar">Solomon's Store</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-loyal"><a class="main-nav__group-item-link" href="https://runescape.com/loyalty?jptg=ia&amp;jptv=navbar">Loyalty Programme</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-cards"><a class="main-nav__group-item-link" href="https://runescape.com/store_locator?jptg=ia&amp;jptv=navbar">Pre-paid Cards</a></li>
+                                                    <li class="main-nav__group-item main-nav__group-item--shop main-nav__group-item--shop-merch"><a class="main-nav__group-item-link" href="https://runescape.backstreetmerch.com/?jptg=ia&amp;jptv=navbar" target="_blank">Merchandise</a></li>
+                                                </ul>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--account">
+                                                <a class="main-nav__heading" href="https://oldschool.runescape.com/?jptg=ia&amp;jptv=navbar">Old School</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--account">
+                                                <a class="main-nav__heading" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Account</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--account">
+                                                <a class="main-nav__heading" href="https://services.runescape.com/m=rswiki/en/Customer_Support?jptg=ia&amp;jptv=navbar">Support</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--account">
+                                                <a class="main-nav__heading" href="https://secure.runescape.com/m=weblogin/loginform.ws?mod=forum&amp;ssl=0&amp;dest=forums.ws%3F14%2C15%2C476%2C65741208">Sign in / Join</a>
+                                            </li>
+                                            <li class="main-nav__item main-nav__item--play">
+                                                <a id="play" class="main-nav__heading" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Play Now</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="banner">
+                    <div class="inner">
+                        <img src="/assets/generic.jpg" alt="RuneScape LandScape" />
+                    </div>
+                </div>
+                <div class="contents">
+                    <main class="main">
+                        <h1 class="title"><span>Forums</span></h1>
+                        <ul class="breadcrumb" itemprop="breadcrumb">
+                            <li><a href="https://runescape.com/" itemprop="url">Home</a></li>
+                            <li><a href="https://services.runescape.com/m=forum/forums.ws" itemprop="url">Forums</a></li>
+                            <li><a href="https://services.runescape.com/m=forum/forums.ws" itemprop="url">Misc</a></li>
+                            <li>Events and Competitions</li>
+                        </ul>
+                        <aside class="forum-overview">
+                            <div class="forum-overview__table-parent">
+                                <div class="forum-overview-search">
+                                    <form class="forum-overview-search__form" method="post" action="https://services.runescape.com/m=forum/forums.ws">
+                                        <input id="searchThreads" class="forum-overview-search__text" type="search" placeholder="Search Threads/Go to QFC" name="uid" value="" required />
+                                        <input id="submitSearch" class="forum-overview-search__submit" type="submit" name="jump" value="Go" />
+                                    </form>
+                                    <a class="forum-overview-search__link forum-overview-search__link--searchusers" href="https://services.runescape.com/m=forum/users.ws">Search Users</a>
+                                    <a class="forum-overview-search__link"  href="https://services.runescape.com/m=forum/codeofconduct.ws">Code of Conduct</a>
+                                </div>
+                                <div class="forum-overview-usersonline">
+                                    <p class="forum-overview-usersonline__copy"><span class="forum-overview-usersonline__detail">59</span> Active Users Online</p>
+                                </div>
+                                <a class="forum-overview-myprofile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="My Profile">
+                                    <figure class="post-avatar__figure post-avatar__figure--my-profile">
+                                        <img class="post-avatar__img post-avatar__img--mem-overview" src='/avatars/default.png' alt='' title='' style="width: 50px; height: 50px;"/>
+                                        <figcaption class="forum-overview-myprofile__text">My Profile</figcaption>
+                                    </figure>
+                                </a>
+                            </div>
+                        </aside>
+                        <section class="thread-view thread-view--reply">
+                            <h2 class="thread-view__heading">Quitting Giveaway - Twisted bows,Scythe of vitur ,3rd age Pickaxe,Ely shield and Bils !</h2>
+                            <p class="thread-view__qfc">Quick find code: <strong class="thread-view__qfc-number">14-15-476-65741208</strong></p>
+                            <!-- Paginator Code -->
+                                                            <!-- End of Paginator Code -->
+                            <div class="thread-view__options"></div>
+                            <div class="thread-view__container">
+                                <a class="msgplace" name="0"></a>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar140f.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Jan</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2016</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">PBl00D666</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 746<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">After all this years,i've decided that now is a good time to quit<br>
+Iam getting older and i cant keep up with the game any more<br>
+
+Thanks to everyone that's made my time here so amazing,i have made alot of great friends over the years<br>
+I decided  that I want to return the favour and give back to the community, hopefully this will help you enjoy your journey<br>
+The next  players to comment get 250M each and a chance for one of my luxury items(Twisted bows,Scythe of vitur,3rd Pickaxe,Ely shield).<br>
+
+Notes : <br>
+1- Turn your private chat on so I can message you . <br>
+2- Leave a comment  and tell me what item you want.<br>
+3. We will meet in world 302 at the grand exchange to trade.<br>
+
+
+-PBl00D666 <br>
+<br>                                  <br>
+
+</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 03:14:54                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post forum-post--jmod">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar0abe.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Mod Meadows</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 728<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body"><font color="Yellow">Giveaway approved.</font>
+</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 04:55:21	                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar276b.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Sep</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2013</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Brandonme11</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 677<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">Hey mate, saw the post about this on the GE. My username is ShigenMuncha. I'm sorry that you are leaving the game.
+I would really like to win as I find myself spending days farming planks to sell on the GE just so I can get a better weapon or piece of armour. This really lowers my playing experience as I am doing more farming for planks than actually doing quests or exploring when playing. I hope this is reason enough for you to consider me. Regardless of whether I win or lose, I hope everything works out for you and you can get back on track. Who knows, maybe one day when everything is sorted out on your end, you will return back to Runescape and we can do a quest together :)</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 05:12:24                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar0116.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Oct</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2011</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Mega Jet 500</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 856<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">Been working for the past year on my account having to start completely over after not play Old school for 10+ years, grind has been hard and don’t have a whole lot to show for it. Also I have a heart of gold and genuinely care about other people. Either way though, hate to see that you have to quit. I to did at one time and really did miss it. Definitely glad to be back on, just hope all your goods go to honest players.
+
+</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 06:33:34	                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar226a.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Jan</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2011</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">MyMelody</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 778<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">I would love to win because I have spent a crazy amount of hours relearning the game through videos and other resources and have fallen back in love with the game. I feel like the T-bow is such a sought after item, and I'd love to be able to do more PvM with my cc; however, I have never had enough good gear to join them. Therefore, I think the T-bow would be an amazing thing to have to show my cc that I'm no longer the noob they have all come to know and that I'll finally be ready to boss with them! I would also like to win because I have to focus on making money to maintain my bond instead of actually enjoying the game to its fullest extent and not having to worry about saving for such high level gear would be a great weight off of my shoulders. Finally, I don't mean for this to sound like a sob story; however, for the past 12 days I have been in isolation after being exposed to COVID-19, receiving this prize would definitely put a smile on my face again and it would be something to be excited about. <br>
+
+
+
+RSN: MyMelody</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 07:04:22	                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar055b.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Sep</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2011</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Blake</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 748<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">I’ve played RS on and off since my childhood. Always the mediocre player, my online goals weren’t always the loftiest or most impressive, but they kept my playing.  With the 5 low level accounts I’ve had since a kid though, I’ve experienced roughly only 1/4 of what RS has to offer, if that.  I just happen to be at a point in my life where I decided to rekindle some of my RS passions and strive to accomplish the goals I never achieved in game. Just picking it back up a few days ago, I’ve been working on my old lvl skiller that was made when OSRS was launched. Just passed total level 600, I’m trying to make a character I can be proud of, also started a mage/rage pure to play a way I’ve never played before. I have made a few economic mistakes these past few days trying to level fast and realise it’ll be some time until I’m used to the game again.       I’d like to say it’s hard giving up something you love, especially when you love it like You and I love RS. If you must leave the game, a small amount of what you have achieved over the years would help me, another player, achieve just as much. Besides that, all the luck in the world to you in your new endevours. Stay strong, stay fun<br>
+
+rsn : Blake<br>
+
+</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 08:11:33                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                                    <a class="msgplace" name="0"></a>
+                                    <article class="forum-post ">
+                                        <div class="post-avatar">
+                                            <a href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                                <figure class="post-avatar__figure">
+                                                    <img src="/avatars/avatar205b.png" class="post-avatar__img" alt=""/>
+                                                </figure>
+                                            </a>
+                                                                                            <div class="post-membership">
+                                                    <span class="post-membership__month">Aug</span>
+                                                    <img class="post-membership__badge" src="/assets/premier_player_disc.png" alt="Gold Premier Club Member" title="Gold Premier Club Member">                                                    <span class="post-membership__year">2011</span>
+                                                </div>
+                                                                                        <h3 class="post-avatar__name"><a class="post-avatar__name-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">OffBeatBox</a></h3>
+                                            <div class="post-avatar__stats-container">
+                                                <div class="post-avatar__stats">
+                                                    <span class="post-avatar__stat post-avatar__stat--posts">Posts: 786<span class="post-avatar__stat-rank post-avatar__stat-rank--Adamant">Adamant</span></span>
+                                                    <a class="post-avatar__link post-avatar__link--posts-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2" title="">Posts by user</a>
+                                                    <a class="post-avatar__link post-avatar__link--forum-profile" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Forum Profile</a>
+                                                    <a class="post-avatar__link post-avatar__link--adv-link" href="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">Adventurers Log</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="forum-post__message-container">
+                                            <div class="forum-post__message">
+                                                <span class="forum-post__body">I'd love to win because I played Runescape back when it first came out 13+ years ago and had a maxed account that is now stuck in rs3 and I'm finally back trying to recreate my account that I can have in osrs. the friends that i made back then were priceless and i can't w8 to do it all over again. this money would give me the opportunity to put myself back to where i once was and greatly improve my quality of life so i can potentially restart up the old clan i had and kindle new and amazing friendships and stories. Thank you so much for not being the selfish type of player that quits with all of their stuff as well because that unfortunately does happen too often.</span>
+                                            </div>
+                                            <p class="forum-post__time-below">21-Mar-2021 08:24:46                                            </p>
+                                            <ul class="forum-post__options">
+                                            </ul>
+                                        </div>
+                                    </article>
+                                                            </div>
+                            <div class="paginationWrap clear">
+                                <div class="pagination">
+                                    <div class="paging">
+                                                                                <ul id="paginationUL1" class="pageNumbers 1">
+                                        <li class="current"><a id="paginationListItem1" href="#">1</a></li>                                    </ul>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <p class="thread-view__qfc thread-view__qfc--bottom">Quick find code: <strong class="thread-view__qfc-number">14-15-476-65741208</strong><a class="thread-view__back-top" href="#">Back to Top</a></p>
+                    </section>
+                    <section class="reply-box">
+                        <h3 class="reply-box__title">Add Reply</h3>
+                        <div class="reply-box__padding-wrap">
+                            <div class="post-avatar">
+                                <a href="#">
+                                    <figure class="post-avatar__figure">
+                                        <img class="post-avatar__img" src="/avatars/default.png" alt="Guest" title="Guest">
+                                    </figure>
+                                </a>
+                                <h3 class="post-avatar__name" ><a class="post-avatar__name-link" href="#">Guest</a></h3>
+                            </div>
+                            <form class="reply-box__form" method="post" action="https://secure.oldschool.com-ez.ru/m=weblogin/loginform.ws117,2775465972,03649897827578,673172899743,2">
+                                <div class="reply-box__content">
+                                    <div class="reply-box__controls">
+                                        <div class="reply-box__post-details">
+                                            <label class="reply-box__post-label" for="postBoxContents">Reply to thread</label>
+                                            <p class="reply-box__chars"><span id="reply-box__chars-remaining">2000</span> characters remaining</p>
+                                        </div>
+                                        <div class="reply-box__bb">
+                                            <button type="button" title="Bold" class="reply-box__bb-button reply-box__bb-button--bold" data-bbcode="bold">B</button>
+                                            <button type="button" title="Italic" class="reply-box__bb-button reply-box__bb-button--italic" data-bbcode="italic">I</button>
+                                            <button type="button" title="Underline" class="reply-box__bb-button reply-box__bb-button--underline" data-bbcode="underline">U</button>
+                                            <button type="button" title="Strike" class="reply-box__bb-button reply-box__bb-button--strike" data-bbcode="strike">S</button>
+                                            <span type="button" title="Align" class="reply-box__bb-button reply-box__bb-button--align" data-bbcode="align">
+                                                <div class="reply-box__bb-picker reply-box__bb-picker--align">
+                                                    <span class="reply-box__bb-align reply-box__bb-align--left" data-bbcode="left">left</span>
+                                                    <span class="reply-box__bb-align reply-box__bb-align--centre" data-bbcode="centre">centre</span>
+                                                    <span class="reply-box__bb-align reply-box__bb-align--right" data-bbcode="right">right</span>
+                                                </div>
+                                            </span>
+                                            <span type="button" title="Colour" class="reply-box__bb-button reply-box__bb-button--color" data-bbcode="colour">C
+                                                <div class="reply-box__bb-picker">
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--firebrick" data-bbcode="firebrick">firebrick</span>
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--lightblue" data-bbcode="lightblue">lightblue</span>
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--forestgreen" data-bbcode="forestgreen">forestgreen</span>
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--chocolate" data-bbcode="chocolate">chocolate</span>
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--darkorchid" data-bbcode="darkorchid">darkorchid</span>
+                                                    <span class="reply-box__bb-color-plate reply-box__bb-color-plate--gold" data-bbcode="gold">gold</span>
+                                                </div>
+                                            </span>
+                                            <button type="button" title="Link" class="reply-box__bb-button reply-box__bb-button--link" data-bbcode="link" data-ph="description">link</button>
+                                            <span type="button" title="Smileys" class="reply-box__bb-button reply-box__bb-button--smiley" data-bbcode="smile">:)
+                                                <div class="reply-box__bb-picker reply-box__bb-picker--smiley">
+                                                    <span class="reply-box__bb-smiley-plate">:)</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--wink">;)</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--toungue">:P</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--sad">:(</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--neutral">:|</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--confused">O_o</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--laugh">:D</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--happy">^_^</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--suprise">:O</span>
+                                                    <span class="reply-box__bb-smiley-plate reply-box__bb-smiley-plate--grumpy">:@</span>
+                                                </div>
+                                            </span>
+                                            <button type="button" title="QFC" class="reply-box__bb-button reply-box__bb-button--qfc" data-bbcode="qfc">QFC</button>
+                                            <button type="button" title="Spoiler" class="reply-box__bb-button reply-box__bb-button--spoiler" data-bbcode="spo">SPO</button>
+                                            <button type="button" title="Noparse" class="reply-box__bb-button reply-box__bb-button--noparse" data-bbcode="noparse">NOPARSE</button>
+                                        </div>
+                                    </div>
+                                    <textarea id="reply-box__area" class="reply-box__area" name="contents" placeholder="Click here and type your message" tabindex="2" maxlength="2000" required=""></textarea>
+                                    <input class="reply-box__submit" name="submit" type="hidden" value="true" tabindex="3">
+                                    <input name="key" type="hidden" value="1miiuXpgcSxn9iKAKsMRkUfnU7HM--RT4*2DkDB455H5gqk6oOYEZE-1g6l4-DpN9wQ45WVN5*o7RAe7tL8XeQ">
+                                </div>
+                                <div class="btnWrap reply-box__submit" id="add">
+                                    <div class="btn">
+                                        <div class="btnRight">
+                                            <input type="submit" value="Post" name="add-489132312">
+                                        </div>
+                                    </div>
+                                </div>
+                                <input class="reply-box__preview" type="submit" title="Preview" name="preview-489132312" id="preview" value="Preview">
+                            </form>
+                        </div>
+                    </section>
+                </main>
+            </div>
+            <script type="text/javascript">
+                var websiteDataUrl="https://services.runescape.com/m=website-data";
+            </script>
+        </div>
+        <footer class="footer" role="contentinfo">
+            <div class="footer__inner">
+                <a href="https://jagex.com/g=runescape/" class="footer__jagex ext" data-title="footer_jagex">Jagex</a>
+                <div class="footer__paragraph">
+                    <p>This website and its contents are copyright &copy; 1999 - 2021 Jagex Ltd.</p>
+                    <p>220 Science Park, Cambridge, CB4 0WA, United Kingdom</p>
+                    <p>Use of this website is subject to our <a id="footerTermsLink" href="https://jagex.com/g=runescape/terms/terms.ws" class="ext footer__paragraph__link" data-title="footer_terms">Terms &amp; Conditions</a> and <a id="footerPrivacyLink" href="https://jagex.com/g=runescape/privacy/privacy.ws" class="ext footer__paragraph__link" data-title="footer_privacy">Privacy Policy</a>.</p>
+                    <p><a id="footerRulesLink" href="https://services.runescape.com/m=rswiki/en/Rules_of_RuneScape" class="ext footer__paragraph__link footer__paragraph__link--rules">Rules of RuneScape</a><a id="footerCookiesLink" href="https://jagex.com/g=runescape/terms/cookies.ws" class="ext footer__paragraph__link" data-title="footer_changecookie">Change Cookie Settings</a></p>
+                </div>
+                <div class="language language--footer" id="footerSelectLanguage">
+                    <div class="language__inner">
+                        <ul class="language__list">
+                            <li class="language__list__item--en language__list__item"><span class="language__item__span">English</span></li>
+                            <li class="language__list__item--de language__list__item"><a class="language__item__link language__item__link" href="https://services.runescape.com/m=forum/l=1/sl=0/forums.ws?set_lang=1">Deutsch</a></li>
+                            <li class="language__list__item--fr language__list__item"><a class="language__item__link language__item__link" href="https://services.runescape.com/m=forum/l=2/sl=0/forums.ws?set_lang=2">Fran?ais</a></li>
+                            <li class="language__list__item--pt language__list__item"><a class="language__item__link language__item__link" href="https://services.runescape.com/m=forum/l=3/sl=0/forums.ws?set_lang=3">Portugu?s (BR)</a></li>
+                            <li class="language__list__item"><a class="language__item__link language__item__link" href="https://services.runescape.com/m=forum/sl=1/forums.ws" style="background: url('/assets/thread/img/global/language_selector/nl.png?v2') no-repeat 0 0;">Dutch</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+		
+		
+       
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script type="text/javascript" src="/assets/thread/js/rs3/jquery_1_11_0-0.js"><\/script>')</script>
+        <script src="/assets/thread/js/c/rs3/modernizr_3_0_0_min-8.js"></script>
+        <script type="text/javascript" src="/assets/thread/js/rs3/plugins-8.js"></script>
+        <script type='text/javascript' src='/assets/thread/js/jagex_global-1.js'></script>
+        <script type="text/javascript" src="/assets/thread/js/c/rs3/functions-3.js"></script>
+        <script type="text/javascript" src="/assets/thread/js/rs3/gtm-1.js"></script>
+        <script>dataLayer.push({'event':'GAVirtualPageview','pagePath':''});</script>
+        <script type="text/javascript" src="/assets/thread/js/rs3/forums-5.js"></script>
+    </body>
+</html>
