@@ -45,7 +45,7 @@ The ML model extracts the following features from a url :
 - IFrame
 - Age of Domain
 - DNS Record
-- Web Traffic -  [using](http://data.alexa.com/)
+- Web Traffic -  using data.alexa.com
 - Google Index
 - Statistical Reports
 
