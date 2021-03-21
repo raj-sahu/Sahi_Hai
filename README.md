@@ -34,7 +34,7 @@
 
 - [whois](https://pypi.org/project/whois/) - The package for retrieving WHOIS information of domains during feature extraction.
 - [scikit-learn](https://scikit-learn.org/stable/) -
-  The library used for training Ml models.
+  The library used for training ML models.
 
 # Usage
 
