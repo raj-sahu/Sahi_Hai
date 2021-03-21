@@ -4,9 +4,12 @@
 
 # Introduction
 
+**Sahi Hai** was made by keeping in the mind the regular internet user who has to go through many websites during his time on the internet and may fall under a trap of a malicious website who might want the user's information or want to introduce malware in their system. Our chrome extension helps the user to check a particular website whether it is safe for browsing or not we have used a pretrained ml model to do so.
+
+
 - [Sahi Hai - A Chrome Extension to detect Malicious Websites](#sahi-hai---a-chrome-extension-to-detect-malicious-websites)
 - [Introduction](#introduction)
-- [Built With](#built-with)
+- [How it Works ?](#how-it-works-)
   - [What Problem it Solves ?](#what-problem-it-solves-)
 - [Tech Stack](#tech-stack)
 - [Usage](#usage)
@@ -15,7 +18,36 @@
   - [Extension](#extension)
 - [Acknowledgments](#acknowledgments)
 
-# Built With
+# How it Works ?
+
+![](./images/flow.jpeg)
+
+The ML model extracts the following features from a url :
+- Having IP address
+- Having IP address
+- Having IP address
+- URL Length
+- URL Shortening service
+- Having @ symbol
+- Having double slash
+- Having dash symbol(Prefix Suffix)
+- Having multiple subdomains
+- SSL Final State
+- Domain Registration Length
+- Favicon
+- HTTP or HTTPS token in domain name
+- Request URL
+- URL of Anchor
+- Links in tags
+- SFH - Server from Handler.
+- Submitting to email
+- Abnormal URL
+- IFrame
+- Age of Domain
+- DNS Record
+- Web Traffic -  [using](http://data.alexa.com/)
+- Google Index
+- Statistical Reports
 
 ## What Problem it Solves ?
  Every other website in today's day and age on the internet wants to collect data of its users by tricking them into giving away their credentials for fraud or many such vindictive acts. Naive users using a browser have no idea about the backend of the page. The users might be tricked into giving away their credentials or downloading malicious data.
