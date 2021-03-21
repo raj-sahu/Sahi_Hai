@@ -9,7 +9,7 @@ label = []
 data = []
 
 load_dotenv()
-MODEL_PATH = os.getenv("MODEL_PATH")
+MODEL_PATH_RF = os.getenv("MODEL_PATH_RF")
 with open('./data/web_data.arff') as fh:
     for line in fh:
         line = line.strip()
@@ -33,4 +33,4 @@ importance = clf.feature_importances_
 print(importance)
 print(clf.score(X_test, y_test))
 
-joblib.dump(clf, MODEL_PATH, compress=9)
+joblib.dump(clf, MODEL_PATH_RF, compress=9)
