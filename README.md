@@ -22,9 +22,9 @@
 
 ![](./images/flow.jpeg)
 
+![](./images/results.png)
+
 The ML model extracts the following features from a url :
-- Having IP address
-- Having IP address
 - Having IP address
 - URL Length
 - URL Shortening service
@@ -52,6 +52,7 @@ The ML model extracts the following features from a url :
   We have iterated twice during training phase :
   1. Random Forest Model ( 93.14% Accuracy )
   2. MLP Model ( 94.17% Accuracy )
+
 
 ## What Problem it Solves ?
  Every other website in today's day and age on the internet wants to collect data of its users by tricking them into giving away their credentials for fraud or many such vindictive acts. Naive users using a browser have no idea about the backend of the page. The users might be tricked into giving away their credentials or downloading malicious data.
