@@ -35,6 +35,9 @@ The ML model extracts the following features from a url :
 | URL of Anchor                       | Links in tags                     | SFH - Server from Handler. | Submitting to email |
 | Abnormal URL                        | IFrame                            | Age of Domain              | DNS Record          |
 | Web Traffic -  using data.alexa.com | Google Index                      |                            | Statistical Reports |
+ 
+ 
+ 
   We have iterated multiple times during training phase :
   
   <!-- 1. Random Forest Model ( 93.14% Accuracy )
