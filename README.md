@@ -80,6 +80,7 @@ Our project was made by keeping in the mind the regular internet user who has to
 - [scikit-learn](https://scikit-learn.org/stable/) -
   The library used for training ML models.
 <br/>
+
 # Usage
 
 ## Directory Structure
@@ -137,6 +138,7 @@ Our project was made by keeping in the mind the regular internet user who has to
 3. Enable developer mode
 4. click on Load Unpacked and select the extensions folder.
 </br>
+
 # Acknowledgments
 
 A very heartful thanks to the authors and owners of the following articles which propelled us to make Sahi Hai.
