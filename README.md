@@ -22,37 +22,24 @@
 
 ![](./images/flow.jpeg)
 
-![](./images/results.png)
+
 
 The ML model extracts the following features from a url :
 
-- Having IP address
-- URL Length
-- URL Shortening service
-- Having @ symbol
-- Having double slash
-- Having dash symbol(Prefix Suffix)
-- Having multiple subdomains
-- SSL Final State
-- Domain Registration Length
-- Favicon
-- HTTP or HTTPS token in domain name
-- Request URL
-- URL of Anchor
-- Links in tags
-- SFH - Server from Handler.
-- Submitting to email
-- Abnormal URL
-- IFrame
-- Age of Domain
-- DNS Record
-- Web Traffic -  using data.alexa.com
-- Google Index
-- Statistical Reports
+
   
-  We have iterated twice during training phase :
-  1. Random Forest Model ( 93.14% Accuracy )
-  2. MLP Model ( 94.17% Accuracy )
+| Feattures     Used                  |                                   |                            |                     |
+| ----------------------------------- | --------------------------------- | -------------------------- | ------------------- |
+| Having IP address                   | URL Length                        | URL Shortening service     | Having @ symbol     |
+| Having double slash                 | Having dash symbol(Prefix Suffix) | Having multiple subdomains | SSL Final State     |  | Domain Registration Length | Favicon | HTTP or HTTPS token in domain name | Request URL |
+| URL of Anchor                       | Links in tags                     | SFH - Server from Handler. | Submitting to email |
+| Abnormal URL                        | IFrame                            | Age of Domain              | DNS Record          |
+| Web Traffic -  using data.alexa.com | Google Index                      |                            | Statistical Reports |
+  We have iterated multiple times during training phase :
+  
+  <!-- 1. Random Forest Model ( 93.14% Accuracy )
+  1. MLP Model ( 94.17% Accuracy ) -->
+  ![](./images/results.png)
 
 <br/>
 
