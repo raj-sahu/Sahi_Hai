@@ -25,6 +25,7 @@
 ![](./images/results.png)
 
 The ML model extracts the following features from a url :
+
 - Having IP address
 - URL Length
 - URL Shortening service
@@ -53,8 +54,10 @@ The ML model extracts the following features from a url :
   1. Random Forest Model ( 93.14% Accuracy )
   2. MLP Model ( 94.17% Accuracy )
 
+<br/>
 
 ## What Problem it Solves ?
+
  Every other website in today's day and age on the internet wants to collect data of its users by tricking them into giving away their credentials for fraud or many such vindictive acts. Naive users using a browser have no idea about the backend of the page. The users might be tricked into giving away their credentials or downloading malicious data.
 
 We have created an extension for Chrome that will act as middleware between the users and the malicious websites and relieve users of giving away to such websites.
@@ -76,7 +79,7 @@ Our project was made by keeping in the mind the regular internet user who has to
 - [whois](https://pypi.org/project/whois/) - The package for retrieving WHOIS information of domains during feature extraction.
 - [scikit-learn](https://scikit-learn.org/stable/) -
   The library used for training ML models.
-
+<br/>
 # Usage
 
 ## Directory Structure
@@ -133,7 +136,7 @@ Our project was made by keeping in the mind the regular internet user who has to
 2. select Extensions.
 3. Enable developer mode
 4. click on Load Unpacked and select the extensions folder.
-
+</br>
 # Acknowledgments
 
 A very heartful thanks to the authors and owners of the following articles which propelled us to make Sahi Hai.
